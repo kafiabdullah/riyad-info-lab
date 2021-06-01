@@ -1,5 +1,5 @@
 
-.sing-in input, .sign-up input{
+.sing-in input, .sign-up input, .employee-attendance-submit input{
     margin: 10px;
     padding: 1% 25% 1% 5%;
 }
